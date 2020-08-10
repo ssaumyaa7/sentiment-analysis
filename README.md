@@ -4,6 +4,7 @@ Project link: https://www.thesocialcomment.com/project/Sentimental-Analysis-usin
 _Sentiment Analysis Using Python (NLP)_
 
 *Gist of Project:*
+
 Often we come across customer’s in business when some of them are sometimes rude, sometimes, confused or happy. Yes! But how about according to the mood of the customer, according to their sentiments we can give them offer and talk to them accordingly. So this can be done using Natural Language Processing (NLP) by analysing their voice or by the comments they put on social media.
 
 Here I have created a project which can recognize and analyse mood of users understand their sentiments on social media platform. For my project I chose Elon Musk as user and Twitter as social media platform. This project can give visualization about how the person tweets and graphically display the positivity or the negativity of tweets of the person.
