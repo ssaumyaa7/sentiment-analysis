@@ -1,5 +1,6 @@
 # sentiment-analysis
 Project link: https://www.thesocialcomment.com/project/Sentimental-Analysis-using-Python--NLP-?pid=5f2e83ded209303efe38f7f2
+
 _Sentiment Analysis Using Python (NLP)_
 
 *Gist of Project:*
